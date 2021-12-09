@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans&display=swap');
+
+.flexbox{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.categoryBox {
+    border-width: 1;
+    border-color: #F7ECE1;
+    border-style: solid;
+    background-color: #CAC4CE;
+    padding-left: 1em;
+    padding-right: 1em;
+    display: inline-block;
+    border-radius: 19px;
+    box-shadow: inset 0px 0px 10px gray;
+    height: 10%;
+    margin: 0.2em;
+}
+
+h4 {
+    margin: 0.8em;
+}
